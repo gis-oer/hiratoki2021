@@ -38,6 +38,8 @@ h3{
 - 講師：[小口 高](http://oguchaylab.csis.u-tokyo.ac.jp/members.html)（東京大・教授）、[飯塚浩太郎](https://kiizuka.wixsite.com/website/)（東京大・助教）、[小倉拓郎](https://www.geoguraphy.com/)（筑波大・助教/東京大・客員研究員）、宋佳麗、[山内啓之](https://researchmap.jp/hyamauchi/)（東大・院生）
 - 内容：地理情報システム（GIS），ドローン，3Dプリンター、VRの利活用・体験[ ※概要はこちらです。](https://www.jsps.go.jp/hirameki/21ht0000/21ht0053.pdf) <br>このほかに、昼休憩時にはランチタイムトークとして、[矢澤 優理子](https://yurikoyazawa.wixsite.com/yazawayuriko)特任助教（東京大）による「人と自然のかかわりから考える地理学」と題した講演（参加自由のショートレクチャー）を予定しています。
 
+※　本プログラムの現地開催については、日本学術振興会の指示を受け、開催校の東京大学の担当チームと相談して決定いたしました。
+
 ## <a name="2"></a>持ち物、服装
 
 - 筆記用具
